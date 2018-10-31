@@ -2,6 +2,10 @@
 
 We're about to build our first webpage: a homepage for your blog! But first, let's learn a little bit about Django URLs.
 
+# டிஜாங்கோ இணையதள முகவரிகள்:
+
+நாங்கள் முதல் வலைப்பக்கத்தை உருவாக்க உள்ளோம்:இது உங்கள் வலைப்பதிவின் முகப்பு.  ஆனால், முதலில் டிஜாங்கோ இணையதள முகவரியைப் பற்றி தெரிந்துக் கொள்வோம்.    
+
 ## What is a URL?
 
 A URL is a web address. You can see a URL every time you visit a website – it is visible in your browser's address bar. (Yes! `127.0.0.1:8000` is a URL! And `https://djangogirls.org` is also a URL.)
