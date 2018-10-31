@@ -6,3 +6,5 @@ Augmented reality- மிகைப்படுத்தப்பட்ட மெ
 Cloud Computing- கொளுவுக் கணிமை
 
 Internet- இணையம்
+
+Algorithm- வினைச்சரம்
